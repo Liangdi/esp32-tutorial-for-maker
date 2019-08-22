@@ -53,4 +53,4 @@ void loop() {
 ```
 
 ## 后记
-Hello World 很简单，
+Hello World 很简单， 这也正是体现了在 Arduino 平台下玩起 ESP32 很简单，随着深入，可能会遇到一些坑，我会在对应的章节中做说明。
