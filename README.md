@@ -8,3 +8,4 @@
 ## 提高篇
 * 最简单的 Arduino 蓝牙串口程序
 * ESP32 存储数据 EEPROM or Preferences
+* [ESP32 Serial, Serial1, Serial2 使用注意事项](./more-serial)
